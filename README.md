@@ -1,6 +1,6 @@
 ## Hi There 👋
 
-Hello, I'm Isu. A Coder love to do Coding with Python and is interested in Artificial intelligence
+Hello, I'm Isu. A Coder who loves to do Coding with Python and is interested in Artificial intelligence
 
 - I am a Learner.
 - Learning About Python and Artificial Intelligence.
