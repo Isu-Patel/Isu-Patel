@@ -21,6 +21,9 @@ Hello, I'm Isu. A Coder love to do Coding with Python and is interested in Artif
 ### 👋🏻 Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/isu-patel-ab733a288/)
+- [Youtube](https://www.youtube.com/@isuworld-coding)
+- [Twitter](https://x.com/isuworld1)
+- Hire me on [Freelancer](https://www.freelancer.com/u/isupatel2)
 - Hire me on [Upwork](https://www.upwork.com/freelancers/~01292805c27dfad504)
 
 <!--
