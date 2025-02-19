@@ -1,4 +1,27 @@
-## Hi there 👋
+## Hi There 👋
+
+Hello, I'm Isu. A Coder love to do Coding with Python and is interested in Artificial intelligence
+
+- I am a Learner.
+- Learning About Python and Artificial Intelligence.
+- Developing dashboards on Visual Studio Code.
+- Data Structuring using Google Sheets and Excel.
+
+### 📚 Projects
+
+- 101 Python Projects.
+- Solving Leet Code Problems.
+- Making my won AI.
+
+### 🛠️ Tools
+
+- Language: Python, HTML, CSS
+- Visualization: Visual Studio Code
+
+### 👋🏻 Connect with Me
+
+- [Linkedin](https://www.linkedin.com/in/isu-patel-ab733a288/)
+- Hire me on [Upwork](https://www.upwork.com/freelancers/~01292805c27dfad504)
 
 <!--
 **Isu-Patel/Isu-Patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
