@@ -11,7 +11,7 @@ Hello, I'm Isu. A Coder who loves to do Coding with Python and is interested in 
 
 - 101 Python Projects.
 - Solving Leet Code Problems.
-- Making my won AI.
+- Making my own AI.
 
 ### 🛠️ Tools
 
