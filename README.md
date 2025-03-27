@@ -24,8 +24,8 @@ Hello, I'm Isu. A Coder who loves to do Coding with Python and is interested in 
 
 ### 👋🏻 Connect with Me
 
-- Join with me  [Linkedin](https://www.linkedin.com/in/isu-patel-ab733a288/)
 - Let's Make a Team and Compete at [Kaggle](https://www.kaggle.com/isuworld)
+- Join with me  [Linkedin](https://www.linkedin.com/in/isu-patel-ab733a288/)
 - Join with me [Twitter](https://x.com/isuworld1)
 - Watch me on [Youtube](https://www.youtube.com/@isuworld-coding)
 - Hire me on [Freelancer](https://www.freelancer.com/u/isupatel2)
