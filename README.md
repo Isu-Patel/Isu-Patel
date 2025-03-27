@@ -16,13 +16,19 @@ Hello, I'm Isu. A Coder who loves to do Coding with Python and is interested in 
 ### 🛠️ Tools
 
 - Language: Python, HTML, CSS
-- Visualization: Visual Studio Code
+- Visualization: Visual Studio Code, Cursor AI
+
+### ⚡ Fun fact
+
+- I'm only 14 years old
+- 
 
 ### 👋🏻 Connect with Me
 
 - Join with me  [Linkedin](https://www.linkedin.com/in/isu-patel-ab733a288/)
-- Watch me on [Youtube](https://www.youtube.com/@isuworld-coding)
+- Let's Make a Team and Compete at [Kaggle](https://www.kaggle.com/isuworld)
 - Join with me [Twitter](https://x.com/isuworld1)
+- Watch me on [Youtube](https://www.youtube.com/@isuworld-coding)
 - Hire me on [Freelancer](https://www.freelancer.com/u/isupatel2)
 - Hire me on [Upwork](https://www.upwork.com/freelancers/~01292805c27dfad504)
 
