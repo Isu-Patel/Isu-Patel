@@ -21,7 +21,6 @@ Hello, I'm Isu. A Coder who loves to do Coding with Python and is interested in 
 ### ⚡ Fun fact
 
 - I'm only 14 years old
-- 
 
 ### 👋🏻 Connect with Me
 
