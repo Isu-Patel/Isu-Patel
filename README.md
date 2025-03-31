@@ -3,13 +3,17 @@
 Hello, I'm Isu. A Coder who loves to do Coding with Python and is interested in Artificial intelligence
 
 - I am a Learner.Learning About Python and Artificial Intelligence.
+- 
 - Developing dashboards on Visual Studio Code.
+- 
 - Data Structuring using Google Sheets and Excel.
 
 ### 📚 Projects
 
 - 101 Python Projects.
+- 
 - Solving Leet Code Problems.
+- 
 - Making my own AI.
 
 ### 🛠️ Tools
@@ -26,10 +30,14 @@ Hello, I'm Isu. A Coder who loves to do Coding with Python and is interested in 
 ### 👋🏻 Connect with Me
 
 - Let's Make a Team and Compete at [Kaggle](https://www.kaggle.com/isuworld)
+- 
 - Join with me  [Linkedin](https://www.linkedin.com/in/isu-patel-ab733a288/)    ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/111272189/227747210-a5d62ebc-ee96-41dc-8e58-cf663f6ff25f.svg)
+- 
 - Join with me [Twitter](https://x.com/isuworld1)        ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333144413146322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/111272189/227746862-5a003248-3a37-4807-8659-686424571372.svg)
 - Watch me on [Youtube](https://www.youtube.com/@isuworld-coding)
+- 
 - Hire me on [Freelancer](https://www.freelancer.com/u/isupatel2)
+- 
 - Hire me on [Upwork](https://www.upwork.com/freelancers/~01292805c27dfad504)
 
 ### Programming Languages
