@@ -16,6 +16,7 @@ Hello, I'm Isu. A Coder who loves to do Coding with Python and is interested in 
 ### 🛠️ Tools
 
 - Visualization: Visual Studio Code, Cursor AI
+- Version Control: Git, GitHub
 
 ### ⚡ Fun fact
 
