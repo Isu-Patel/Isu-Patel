@@ -2,8 +2,7 @@
 
 Hello, I'm Isu. A Coder who loves to do Coding with Python and is interested in Artificial intelligence
 
-- I am a Learner.
-- Learning About Python and Artificial Intelligence.
+- I am a Learner.Learning About Python and Artificial Intelligence.
 - Developing dashboards on Visual Studio Code.
 - Data Structuring using Google Sheets and Excel.
 
