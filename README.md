@@ -35,7 +35,7 @@ Hello, I'm Isu. A Coder who loves to do Coding with Python and is interested in 
 
 - Join with me [Twitter](https://x.com/isuworld1)        ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333144413146322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/111272189/227746862-5a003248-3a37-4807-8659-686424571372.svg)
 
-- Watch me also on [Youtube Main Channel](https://www.youtube.com/@Isu-Coding)
+- Watch me on [Youtube Main Channel](https://www.youtube.com/@Isu-Coding)
 - Watch me on [Youtube 2nd Channel](https://www.youtube.com/@isuworld-coding)
 - Wanna Have some Fun Watch Gaming with me On [Youtube Gaming Channel](https://www.youtube.com/@IsuTheKing2)
 
