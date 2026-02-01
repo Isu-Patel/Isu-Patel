@@ -29,6 +29,10 @@ Hello, I'm Isu. A Coder who loves to do Coding with Python and is interested in 
 
 ### 👋🏻 Connect with Me
 
+- Wanna have my Profile for My Performance at CodeForces here [Isu_Patel](https://codeforces.com/profile/Isu_Patel)
+
+- Wanna have one more Profile see here a nice profile of [LeetCode](https://leetcode.com/u/isuworld22)
+
 - Let's Make a Team and Compete at [Kaggle](https://www.kaggle.com/isuworld)
 
 - Join with me  [Linkedin](https://www.linkedin.com/in/isu-patel-ab733a288/)    ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/111272189/227747210-a5d62ebc-ee96-41dc-8e58-cf663f6ff25f.svg)
