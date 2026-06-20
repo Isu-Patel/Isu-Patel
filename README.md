@@ -1,5 +1,10 @@
 ## Hi There 👋
 
+Hello, I'm Isu. A Coder who loves to do Coding with Python and is interested in Artificial intelligence
+
+- I am a Learner.Learning About Python and Artificial Intelligence.
+- Developing dashboards on Visual Studio Code.
+  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Isu-Patel&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
 </p>
@@ -15,12 +20,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Isu-Patel&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
-
-Hello, I'm Isu. A Coder who loves to do Coding with Python and is interested in Artificial intelligence
-
-- I am a Learner.Learning About Python and Artificial Intelligence.
-- Developing dashboards on Visual Studio Code.
-- Data Structuring using Google Sheets and Excel.
 
 ### 📚 Projects
 
