@@ -52,18 +52,21 @@ Hello, I'm Isu. A Coder who loves to do Coding with Python and is interested in 
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332532302d2532333135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/111272189/227746959-04cb4261-6014-475d-b93d-8c74c6488db9.svg)
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2532302d2532333134333534432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/111272189/227747295-63dd9236-79b6-48c9-be1a-7295260ccde6.svg)
 
-
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Milanpatel35&show_icons=true&theme=radical" alt="Isu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Isu-Patel&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Milanpatel35&theme=radical" alt="Isu's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isu-Patel&theme=radical" alt="GitHub Streak" />
 </p>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,arduino,git,github,vscode,html,css,js" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Isu-Patel&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
 <!--
 **Isu-Patel/Isu-Patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
