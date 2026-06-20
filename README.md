@@ -53,11 +53,11 @@ Hello, I'm Isu. A Coder who loves to do Coding with Python and is interested in 
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2532302d2532333134333534432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/111272189/227747295-63dd9236-79b6-48c9-be1a-7295260ccde6.svg)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isu-Patel&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Isu-Patel&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isu-Patel&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isu-Patel&theme=vision-friendly-dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
